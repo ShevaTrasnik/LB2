@@ -1,0 +1,6 @@
+LIBRARY RSA_DLL
+
+EXPORTS
+    GenerateKeys
+    Encrypt
+    Decrypt
